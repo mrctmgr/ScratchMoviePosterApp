@@ -1,0 +1,13 @@
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\IMDBposter.csproj.AssemblyReference.cache
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\IMDBposter.csproj.SuggestedBindingRedirects.cache
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\denemIMDB.Form1.resources
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\denemIMDB.Properties.Resources.resources
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\IMDBposter.csproj.GenerateResource.cache
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\IMDBposter.csproj.CoreCompileInputs.cache
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\denemIMDB.exe
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\denemIMDB.pdb
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\bin\Debug\denemIMDB.exe.config
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\bin\Debug\denemIMDB.exe
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\bin\Debug\denemIMDB.pdb
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\bin\Debug\Saklambac.NetFramework.dll
+C:\Users\batma\OneDrive\Masaüstü\project\denemeImdb\denemIMDB\denemIMDB\obj\Debug\IMDBposter.csproj.CopyComplete
